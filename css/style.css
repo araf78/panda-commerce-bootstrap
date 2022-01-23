@@ -1,3 +1,33 @@
 .panda-bg-succes{
     background-color: #fceae8 ;
 }
+.categories img{
+    width: 100px;
+    height: 100px;
+}
+.panda-buy-now{
+    color: white;
+    background-color: #FF589B;
+    width: 123px;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+.watch
+{
+    background-color: blue;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.bag
+{
+    background-color: orchid;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.watch
+{
+    background-color: orange;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
